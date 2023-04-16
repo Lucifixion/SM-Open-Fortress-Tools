@@ -1,5 +1,5 @@
 # Open-Fortress-Tools
-Basic bins and tools for Open Fortress Sourcemod development. (Revision 12)
+Basic bins and tools for Open Fortress Sourcemod development. (Revision 15)
 
 This is a base for open fortress sourcemod compatibility. 
 
